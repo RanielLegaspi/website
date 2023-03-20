@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
 
 body{
-    font-family: 'Rubik Iso', cursive;
+    font-family: 'Tilt Neon', cursive;
     background-color: rgb(161, 100, 223);
     display:flex;
     height: 100vh;
