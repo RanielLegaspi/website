@@ -1,11 +1,11 @@
 const counters = document.querySelectorAll('.counter')
 
 counters.forEach(counter => {
-    counter.innertext = '0'
+    counter.innerText = '0'
 
     const updateCounter = () => {
-        const target = counter.GetAttribute('data-target')
-        console.log(target)
+        const target = +counter.GetAttribute('data-target')
+        const c = +counter.innerText
     }
 
     updateCounter()
