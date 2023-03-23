@@ -1,12 +1,21 @@
 body {
-    background-color: #ADD8E6;
+    background-color: #51b4e4;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    overflow:hidden;
+    margin: 0;
+}
+
+.links {
     height: 100vh;
     align-items: center;
     justify-content: center;
     margin:0;
-    overflow:hidden;
 }
 
 .content {
-    background-color: ;
+    text-align: center;
+    font-size: 30px;
+    height:100px;
 }
