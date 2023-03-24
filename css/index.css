@@ -16,7 +16,7 @@ body {
     width: 13vw;
     height: 40vh;
     margin:30px;
-    border: 10px;
+    outline: 10px 10px;
 }
 
 .content {
