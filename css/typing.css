@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+body {
+    font-family: 'Delicious Handrawn', cursive;
+    background-color: darksalmon;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+.container{
+    position: absolute;
+    bottom: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background: rgba(0,0,0,.3)
+}
