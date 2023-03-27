@@ -35,5 +35,6 @@ body {
     justify-content: center;
     overflow:hidden;
     margin: 0;
+    position: relative;
     margin-top:3px;
 }
