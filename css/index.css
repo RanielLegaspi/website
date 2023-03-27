@@ -46,7 +46,8 @@ body {
 .sent {
     display: inline-flex;
     margin: 250px -975px;
-    float: right;
+    position: relative;
+    float: left;
     width: 850px;
     height: 180px;
     background-size: 10px;
@@ -56,7 +57,7 @@ body {
     display: inline-flex;
     margin: 250px 1000px;
     position: relative;
-    float: right;
+    float: left;
     width: 550px;
     height: 180px;
     background-size: 10px;
