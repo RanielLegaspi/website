@@ -45,7 +45,7 @@ body {
 
 .pitcu {
     display: inline-flex;
-    margin: -200px -975px;
+    margin: 250px -975px;
     float: right;
     width: 850px;
     height: 180px;
@@ -54,7 +54,7 @@ body {
 
 .pitc {
     display: inline-flex;
-    margin: -200px 1000px;
+    margin: 250px 1000px;
     float: right;
     width: 550px;
     height: 180px;
