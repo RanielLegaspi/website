@@ -27,7 +27,7 @@ body {
 
 .pitcure{
     display: inline-flex;
-    margin: -300px 10px;
+    margin: -355px 10px;
     float: right;
     width: 850px;
     height: 275px;
@@ -36,9 +36,27 @@ body {
 
 .pitcur {
     display: inline-flex;
-    margin: -200px -585px;
+    margin: -275px -585px;
     float: right;
     width: 850px;
-    height: 275px;
+    height: 300px;
     background-size: 100px;
+}
+
+.pitcu {
+    display: inline-flex;
+    margin: -200px -975px;
+    float: right;
+    width: 850px;
+    height: 180px;
+    background-size: 10px;
+}
+
+.pitc {
+    display: inline-flex;
+    margin: -200px 1000px;
+    float: right;
+    width: 550px;
+    height: 180px;
+    background-size: 10px;
 }
