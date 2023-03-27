@@ -16,7 +16,6 @@ body {
     width: 13vw;
     height: 40vh;
     margin:30px;
-    outline: 10px 10px;
 }
 
 .content {
@@ -29,9 +28,9 @@ body {
 
 .pitcure{
     display: inline-flex;
-    margin: -220px 10px;
+    margin: -250px 10px;
     float: right;
     width: 850px;
     height: 275px;
-    size: 200px;
+    background-size: 100px;
 }
