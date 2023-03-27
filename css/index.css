@@ -13,7 +13,7 @@ body {
     width: 13vw;
     height: 40vh;
     margin:75px 75px;
-    padding: 2px 5px;
+    padding: 1px 5px;
 }
 
 .content {
@@ -31,4 +31,5 @@ body {
     width: 850px;
     height: 275px;
     background-size: 100px;
+    padding: 10px;
 }
