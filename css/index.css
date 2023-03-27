@@ -43,7 +43,7 @@ body {
     background-size: 100px;
 }
 
-.pitcu {
+.sent {
     display: inline-flex;
     margin: 250px -975px;
     float: right;
@@ -52,9 +52,10 @@ body {
     background-size: 10px;
 }
 
-.pitc {
+.dent {
     display: inline-flex;
     margin: 250px 1000px;
+    position: relative;
     float: right;
     width: 550px;
     height: 180px;
