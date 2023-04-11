@@ -16,6 +16,7 @@ body {
     padding: 1px 5px;
     border-color: black;
     cursor: default;
+    position: relative;
 }
 
 .content {
