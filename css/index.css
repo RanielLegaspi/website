@@ -32,6 +32,7 @@ body {
 }
 
 .pitcure{
-    right: 45px;
+    position: absolute;
+    right: 50px;
     top: 45px;
 }
