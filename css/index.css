@@ -1,17 +1,17 @@
 body {
     background-color: #51b4e4;
     margin: 0;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
     position: absolute;
 }
 
 .links {
     background-color: white;
-    width: 13vw;
-    height: 30vh;
     margin:15px 45px;
     padding: 1px 5px;
     cursor: default;
-    position: relative;
 }
 
 .content {
@@ -23,5 +23,5 @@ body {
 
 .things{
     color: #222222;
-    background-color
+    background-color: #6495ED;
 }
