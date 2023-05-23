@@ -9,7 +9,7 @@ body {
 .links{
     background-color: white;
     width: 13vw;
-    height: 30vh;
+    height: 28vh;
     margin:15px 45px;
     padding: 1px 5px;
     cursor: default;
@@ -21,4 +21,17 @@ body {
     font-size: 30px;
     background-color: white;
     cursor: default;
+}
+
+.things{
+    color: #222222;
+    background-color: #6495ED;
+    position: absolute;
+    bottom: 325px;
+    left: 20px;
+}
+
+.pitcure{
+    right: 45px;
+    top: 45px;
 }
