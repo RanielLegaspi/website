@@ -13,6 +13,7 @@ body {
     margin:15px 45px;
     padding: 1px 5px;
     cursor: default;
+    outline: 5px dashed black;
     position: absolute;
 }
 
@@ -21,6 +22,7 @@ body {
     font-size: 30px;
     background-color: white;
     cursor: default;
+    outline: 5px dotted green;
     border-color: black;
 }
 
