@@ -1,16 +1,19 @@
+
 body {
     background-color: #51b4e4;
     margin: 0;
+    justify-content: center;
+    overflow: hidden;
 }
 
-.links {
+.links{
     background-color: white;
     width: 13vw;
     height: 30vh;
     margin:15px 45px;
     padding: 1px 5px;
     cursor: default;
-    position: relative;
+    position: absolute;
 }
 
 .content {
@@ -18,9 +21,4 @@ body {
     font-size: 30px;
     background-color: white;
     cursor: default;
-}
-
-.things{
-    color: #222222;
-    background-color: #6495ED;
 }
