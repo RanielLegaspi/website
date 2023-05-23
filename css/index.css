@@ -28,12 +28,13 @@ body {
     color: #222222;
     background-color: #6495ED;
     position: absolute;
-    bottom: 325px;
+    bottom: 300px;
     left: 20px;
+    font-size: 20px;
 }
 
 .pitcure{
     position: absolute;
-    right: 50px;
-    top: 45px;
+    right: 450px;
+    top: 150px;
 }
