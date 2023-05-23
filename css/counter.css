@@ -31,3 +31,10 @@ body {
         flex-direction: column;
     }
 }
+
+.home{
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    bottom: 32px;
+}
