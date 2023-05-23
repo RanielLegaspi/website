@@ -33,6 +33,7 @@ input:focus{
     outline: none;
 }
 .home{
+    font-family: 'Delicious Handrawn', cursive;
     position: absolute;
     font-size: 25px;
     text-align: center;
