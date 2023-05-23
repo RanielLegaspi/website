@@ -32,3 +32,10 @@ input{
 input:focus{
     outline: none;
 }
+.home{
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    bottom: 32px;
+    right: 20px
+}
