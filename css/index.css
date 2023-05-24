@@ -49,5 +49,7 @@ body {
     position: absolute;
     right: 30px;
     top: 150px;
-    background-size: cover;
+    display: flex;
+    height: 80vh;
+    width:35vw;
 }
