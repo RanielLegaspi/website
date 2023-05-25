@@ -50,9 +50,8 @@ body {
 
 .pitcure1{
     position: absolute;
-    right: 30px;
+    right: 150px;
     top: 150px;
     display: flex;
     height: 65vh;
-    width:vw;
 }
