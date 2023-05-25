@@ -31,7 +31,7 @@ body {
     color: #222222;
     background-color: #6495ED;
     position: relative;
-    top: 230px;
+    top: 215px;
     left: 20px;
     width: 50vw;
     font-size: 20px;
@@ -43,7 +43,7 @@ body {
 .pitcure{
     position: absolute;
     left: 300px;
-    top: 150px;
+    top: 138px;
     display: flex;
     width: 10vw;
 }
