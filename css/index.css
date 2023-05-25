@@ -54,5 +54,11 @@ body {
     top: 150px;
     display: flex;
     height: 65vh;
-    width: 35vw;
+    width: 25vw;
+}
+
+.btn{
+    position: absolute;
+    right: 100px;
+    top: 150px;
 }
