@@ -58,9 +58,6 @@ body {
 }
 
 .btn{
-    position: absolute;
-    right: 100px;
-    top: 150px;
     background-color: #9f68e0;
     color: #fff;
     border: 0;
@@ -68,4 +65,15 @@ body {
     padding: 14px 40px;
     font-size: 16px;
     cursor: pointer;
+}
+
+.outer-container {
+    background-color: #fff;
+    border-radius:10px;
+    padding: 50px 20px;
+    text-align:center;
+    width: 180px;
+    position: absolute;
+    right: 80px;
+    top: 200px;
 }
